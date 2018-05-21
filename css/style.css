@@ -80,3 +80,12 @@ p.first{
 .list{
     list-style-type: none;
 }
+h3{
+	color:  #353535;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 20px;
+}
+h3.inf1{
+	padding-left: 120px;
+}
