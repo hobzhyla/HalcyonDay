@@ -76,16 +76,10 @@ p.first{
 	padding-right: 195px;
 	line-height: 30px;
 	padding-bottom: 130px;
+
 }
-.list{
-    list-style-type: none;
-}
-h3{
-	color:  #353535;
-	font-size: 15px;
-	font-weight: 500;
-	line-height: 20px;
-}
-h3.inf1{
-	padding-left: 120px;
+.skills{
+	width:340px;
+	float: left;
+	text-align: center;
 }
